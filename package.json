@@ -1,0 +1,13 @@
+{
+  "name": "merge-it",
+  "version": "1.0.0",
+  "description": "",
+  "main": "merge.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "type": "module",
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
